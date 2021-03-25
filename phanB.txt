@@ -1,0 +1,11 @@
+1. nếu bỏ qua các vấn đề về bộ nhớ và thời gian chạy, thì những trường hợp dùng vòng lặp hoàn toàn có thể giải bằng đệ quy.
+2. có, vì vòng lặp thường phải có điều kiện dừng khá cụ thể, nên trong nhiều bài toán có thể làm khó trong việc cài đặt thuật toán
+3. tùy bài toán để chọn, nhưng thường thì nên chọn vòng lặp vì bộ nhớ tiêu hao thấp hơn
+4. time limit do tràn bộ nhớ, giới hạn của đệ quy.
+5. output in ra màn hình lần lượt với các giá trị 6,4,2,...
+6.không có base case dẫn đến việc lỗi khi gán biến temp = factorial(n-1)*n;
+7.mystery(2,25) ra 50
+mystery(3,11) ra 33
+
+tính a*b 
+thay + = * thì kết quả thành a^b
